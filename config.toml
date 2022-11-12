@@ -1,4 +1,4 @@
-baseURL = "https://www.example.com/"
+baseURL = "https://asuka-top.github.io/bonchhack/"
 title = "Bonchhack"
 # author = "Yukuro"
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
