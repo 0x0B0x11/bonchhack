@@ -16,12 +16,21 @@
     </item>
     
     <item>
+      <title>Правила</title>
+      <link>https://asuka-top.github.io/bonchhack/rulez/</link>
+      <pubDate>Sat, 15 Oct 2022 12:42:48 +0300</pubDate>
+      
+      <guid>https://asuka-top.github.io/bonchhack/rulez/</guid>
+      <description>Пока пусто всегда взаимоуважение и хранит прокты на гите</description>
+    </item>
+    
+    <item>
       <title>Что у нас есть?</title>
       <link>https://asuka-top.github.io/bonchhack/exist/</link>
       <pubDate>Sat, 15 Oct 2022 12:42:48 +0300</pubDate>
       
       <guid>https://asuka-top.github.io/bonchhack/exist/</guid>
-      <description>Вычислительный кластер для нейросетей Nvidia что-то там
+      <description>Обучение нейросетей Nvidia что-то там
 Россыпь микроконтроллеров esp stm
 Сетевая лаборатория Возможность строить сети как в cisco packet tracer только круче, серверы на лине, винде и масса оборудования в виртуалках</description>
     </item>
