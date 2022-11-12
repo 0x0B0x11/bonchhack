@@ -76,9 +76,9 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "project"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["Telegram чат", "https://www.example.com/"],
-    ["Что у нас есть", "https://www.example.com/"],
-    ["Правила", "/post/some-activity.md"],
+    ["Telegram чат", "https://t.me/bonchhack"],
+    ["Что у нас есть", "/exist.md"],
+    ["Правила", "/rules.md"],
   ]
 
 [module]
