@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bonchhack</title>
-    <link>https://www.example.com/</link>
+    <link>https://asuka-top.github.io/bonchhack/</link>
     <description>Recent content on Bonchhack</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 15 Oct 2022 12:42:48 +0300</lastBuildDate><atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Oct 2022 12:42:48 +0300</lastBuildDate><atom:link href="https://asuka-top.github.io/bonchhack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://www.example.com/posts/my-first-post/</link>
+      <link>https://asuka-top.github.io/bonchhack/posts/my-first-post/</link>
       <pubDate>Sat, 15 Oct 2022 12:42:48 +0300</pubDate>
       
-      <guid>https://www.example.com/posts/my-first-post/</guid>
+      <guid>https://asuka-top.github.io/bonchhack/posts/my-first-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Что у нас есть?</title>
-      <link>https://www.example.com/exist/</link>
+      <link>https://asuka-top.github.io/bonchhack/exist/</link>
       <pubDate>Sat, 15 Oct 2022 12:42:48 +0300</pubDate>
       
-      <guid>https://www.example.com/exist/</guid>
+      <guid>https://asuka-top.github.io/bonchhack/exist/</guid>
       <description>Вычислительный кластер для нейросетей Nvidia что-то там
 Россыпь микроконтроллеров esp stm
 Сетевая лаборатория Возможность строить сети как в cisco packet tracer только круче, серверы на лине, винде и масса оборудования в виртуалках</description>
