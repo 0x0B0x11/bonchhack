@@ -38,7 +38,7 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: result of the tree command
   userName = "student"
   pcName = "SPBGUT"
-  workDir = "lab"
+  workDir = "room_425_2"
   profile = "readme.md"
 
   # Note: speed at which text is displayed on the terminal
@@ -73,12 +73,12 @@ ignoreErrors = ["error-remote-getjson"]
 
   [Params.Tree]
   use = true
-  folderName = "project"
+  folderName = "room_425_2"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["Telegram чат", "https://t.me/bonchhack"],
     ["Что у нас есть", "/exist.md"],
-    ["Правила", "/rules.md"],
+    ["Правила", "/rulez.md"],
   ]
 
 [module]
