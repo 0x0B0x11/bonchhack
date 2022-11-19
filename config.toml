@@ -83,7 +83,7 @@ ignoreErrors = ["error-remote-getjson"]
     ["Telegram чат", "https://t.me/bonchhack"],
     ["Что у нас есть", "/exist.md"],
     ["Правила", "/rulez.md"],
-    ["readme.md",""]
+    ["readme",""]
   ]
 
 [module]
