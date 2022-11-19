@@ -4,24 +4,16 @@
     <title>Bonchhack</title>
     <link>https://asuka-top.github.io/bonchhack/</link>
     <description>Recent content on Bonchhack</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 15 Oct 2022 12:42:48 +0300</lastBuildDate><atom:link href="https://asuka-top.github.io/bonchhack/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://asuka-top.github.io/bonchhack/posts/my-first-post/</link>
-      <pubDate>Sat, 15 Oct 2022 12:42:48 +0300</pubDate>
-      
-      <guid>https://asuka-top.github.io/bonchhack/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://asuka-top.github.io/bonchhack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Правила</title>
       <link>https://asuka-top.github.io/bonchhack/rulez/</link>
       <pubDate>Sat, 15 Oct 2022 12:42:48 +0300</pubDate>
       
       <guid>https://asuka-top.github.io/bonchhack/rulez/</guid>
-      <description>Пока пусто всегда взаимоуважение и хранит прокты на гите</description>
+      <description>Архивируй Всегда сохроняй и документируй наработки, может пригодится потом или кто-то захочет продолжить твою работу. Git вам в помощь.
+Уважай Людей и вещи используй аккуратно и всегда возвращай на место.
+Учись Не стыдно не знать, стыдно не хотеть узнать.</description>
     </item>
     
     <item>
@@ -30,9 +22,11 @@
       <pubDate>Sat, 15 Oct 2022 12:42:48 +0300</pubDate>
       
       <guid>https://asuka-top.github.io/bonchhack/exist/</guid>
-      <description>Обучение нейросетей Nvidia что-то там
-Россыпь микроконтроллеров esp stm
-Сетевая лаборатория Возможность строить сети как в cisco packet tracer только круче, серверы на лине, винде и масса оборудования в виртуалках</description>
+      <description>Нейроночки У нас есь доступ к платферме neural designer для обучения нейросетей.
+Микроконтроллеры Завалялись и микроконтроллеры с датчиками.
+Eve ng Возможность строить виртуальные сети с использованием серверов на лине, винде и массы сетевого оборудования.
+Конкурсы При создании прототипа устройства возможно поездить на выставки и поучавствовать в конкурсах.
+Проекты Возможно участвовать в межвузовских или проетах от разнообразных компаний.</description>
     </item>
     
   </channel>
