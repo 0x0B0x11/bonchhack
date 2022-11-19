@@ -1,3 +1,3 @@
 # bonchhack
 
-https://asuka-top.github.io/bonchhack/
+https://0x0B0x11.github.io/bonchhack/
