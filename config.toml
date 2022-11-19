@@ -38,8 +38,8 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: result of the tree command
   userName = "student"
   pcName = "SPBGUT"
-  workDir = "room_425_2"
-  profile = "readme.md"
+  workDir = "bonchhack"
+  profile = "readme"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
@@ -63,8 +63,12 @@ ignoreErrors = ["error-remote-getjson"]
   # activityDelay = 5 : deprecated
 
   description = """
-  Приветствую в самой лучшей лабе!
-  Хочешь делать годноту? Научимся!
+  Приветствую, мы сообщество энтузиастов
+  нацеленное на создание технических
+  приколюх и совершенствования своих навыков.
+
+  Учимся, создаём и развиваемся.
+  Зачем? Just for fun, конечно же.
   """
 
   # Note: If you want to use a Markdown file, you can use the following
@@ -73,15 +77,21 @@ ignoreErrors = ["error-remote-getjson"]
 
   [Params.Tree]
   use = true
-  folderName = "room_425_2"
+  folderName = "bonchhack"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["Telegram чат", "https://t.me/bonchhack"],
     ["Что у нас есть", "/exist.md"],
     ["Правила", "/rulez.md"],
+    ["readme.md",""]
   ]
 
 [module]
   [module.hugoVersion]
     extended = true
     min = "0.85.0"
+
+  [module.mounts]
+  source = 'static'
+  target = 'static'
+
