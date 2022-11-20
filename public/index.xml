@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bonchhack</title>
-    <link>https://asuka-top.github.io/bonchhack/</link>
+    <link>https://0x0B0x11.github.io/bonchhack/</link>
     <description>Recent content on Bonchhack</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://asuka-top.github.io/bonchhack/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://0x0B0x11.github.io/bonchhack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Правила</title>
-      <link>https://asuka-top.github.io/bonchhack/rulez/</link>
+      <link>https://0x0B0x11.github.io/bonchhack/rulez/</link>
       <pubDate>Sat, 15 Oct 2022 12:42:48 +0300</pubDate>
       
-      <guid>https://asuka-top.github.io/bonchhack/rulez/</guid>
+      <guid>https://0x0B0x11.github.io/bonchhack/rulez/</guid>
       <description>Архивируй Всегда сохроняй и документируй наработки, может пригодится потом или кто-то захочет продолжить твою работу. Git вам в помощь.
 Уважай Людей и вещи используй аккуратно и всегда возвращай на место.
 Учись Не стыдно не знать, стыдно не хотеть узнать.</description>
@@ -18,10 +18,10 @@
     
     <item>
       <title>Что у нас есть?</title>
-      <link>https://asuka-top.github.io/bonchhack/exist/</link>
+      <link>https://0x0B0x11.github.io/bonchhack/exist/</link>
       <pubDate>Sat, 15 Oct 2022 12:42:48 +0300</pubDate>
       
-      <guid>https://asuka-top.github.io/bonchhack/exist/</guid>
+      <guid>https://0x0B0x11.github.io/bonchhack/exist/</guid>
       <description>Нейроночки У нас есть доступ к платформе neural designer для обучения нейросетей.
 Микроконтроллеры Завалялись и микроконтроллеры с датчиками.
 Eve ng Возможность строить виртуальные сети с использованием серверов на лине, винде и массы сетевого оборудования.
